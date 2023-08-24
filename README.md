@@ -29,7 +29,3 @@ IV. 076F18R: Correct frame but missing 'E'.
 - Display time in HH:MM:SS AM/PM format, starting from 00:00:00 AM.
 
 This project showcases your coding skills in embedded C, emphasizing efficiency, cleanliness, and robustness. You'll demonstrate integration capabilities by harmonizing multiple system components into a cohesive design.
-
-*[Add Your Own Progress Updates, Technical Details, and Achievements Here]*
-
-Feel free to use this summary as a starting point for your GitHub repository's README file, providing an organized overview of your project's goals, tasks, and objectives.
